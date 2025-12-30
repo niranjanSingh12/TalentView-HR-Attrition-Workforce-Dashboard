@@ -123,21 +123,21 @@ This project demonstrates strong skills in:
 ### 🔹 Workforce Overview
 High-level view of workforce KPIs, headcount distribution, and employee demographics.
 
-![Workforce Overview](./Workforce Overview.png)
+![Workforce Overview](Workforce Overview.png)
 
 ---
 
 ### 🔹 Attrition Analysis
 Analysis of employee attrition trends, separation reasons, and key attrition drivers.
 
-![Attrition Analysis](./Attrition Analysis.png)
+![Attrition Analysis](Attrition Analysis.png)
 
 ---
 
 ### 🔹 Hiring Analysis
 Evaluation of recruitment effectiveness and comparison between hiring and attrition.
 
-![Hiring Analysis](./Hiring Analysis.png)
+![Hiring Analysis](Hiring Analysis.png)
 
 
 ## 📌 Author
